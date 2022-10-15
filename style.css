@@ -27,7 +27,7 @@ li {
 }
 .navbar {
   position: absolute;
-  top: 10px;
+  top: 28px;
   left: 28px;
   right: 28px;
 }
@@ -169,7 +169,7 @@ li {
 }
 .footer {
   background-color: var(--dark-cyan);
-  padding: 60px;
+  padding:80px 60px;
   color: white;
 }
 .footer .innersection {
