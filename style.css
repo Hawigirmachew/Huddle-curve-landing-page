@@ -169,7 +169,7 @@ li {
 }
 .footer {
   background-color: var(--dark-cyan);
-  padding:80px 60px;
+  padding:60px 80px;
   color: white;
 }
 .footer .innersection {
